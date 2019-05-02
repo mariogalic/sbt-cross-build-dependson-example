@@ -58,7 +58,7 @@ whilst sub-projects were build just for their respective versions
 scala-2.11/target/
 ├── scala-2.11
 
-tree -d -L 1 scala-2.12/target/
+> tree -d -L 1 scala-2.12/target/
 scala-2.12/target/
 ├── scala-2.12
 ``` 
